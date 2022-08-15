@@ -1,0 +1,24 @@
+{
+  "name": "langguessr",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaphaelRaja/LangGuessr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaphaelRaja/LangGuessr/issues"
+  },
+  "homepage": "https://github.com/RaphaelRaja/LangGuessr#readme",
+  "dependencies": {
+    "franc": "^6.0.0",
+    "langs": "^2.0.0"
+  }
+}
